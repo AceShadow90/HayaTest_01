@@ -2,12 +2,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
 
-#EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",CONVERGE CHANNELS
+#EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",CONVERGE
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="CONVERGE CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="CONVERGE CHANNELS",CHANNELS NOTICE
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -629,7 +629,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NEWS CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 
 
@@ -749,7 +749,7 @@ https://livetv-fa.tubi.video/kshb2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="MOVIE CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 
 #EXTM3U
@@ -1042,7 +1042,7 @@ https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda469
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KIDS CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 
 
@@ -1249,7 +1249,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="INTERTAINMENT CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 #EXTM3U
 #EXTINF:-1 group-title="INTERTAINMENT CHANNELS",RAGE TV
@@ -1296,7 +1296,7 @@ https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SPORTS CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS CHANNELS",TENNIS 2
@@ -1428,7 +1428,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="DOCUMENTARY CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
