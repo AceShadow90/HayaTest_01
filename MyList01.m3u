@@ -1672,7 +1672,20 @@ https://gg.poocloud.in/nba_orl/index.m3u8
 https://gg.poocloud.in/nba_atl/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8191b60acf356dac2fd4d3bfe999734e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Philadelphia 76ers vs. Boston Celtics
 https://gg.poocloud.in/nba_bos/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/15cbca9660f21505eadc4b96aadb6fbe-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Chicago Bulls
+https://gg.poocloud.in/nba_chi/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/525263f95c2a0e265fa736ad3a6c0cb2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New Orleans Pelicans vs. Memphis Grizzlies
+https://gg.poocloud.in/nba_mem/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6085bf4fb88ed376be8f8ae45ae03a1a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Washington Wizards vs. Milwaukee Bucks
+https://gg.poocloud.in/nba_mil/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aac8a36bcef81839bd157fc870128023-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Utah Jazz
+https://gg.poocloud.in/nba_uta/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f1797ed13aca5c24781b7bd6bc7ca5aa-thumbnail.jpg" group-title="PPVLand - Basketball Hub",San Antonio Spurs vs. Dallas Mavericks
+https://gg.poocloud.in/nba_dal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/161cf33af8553bc0ff74ab54e5dd51da-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. Phoenix Suns
+https://gg.poocloud.in/nba_phx/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/297cd2c6bc5e55c7f027d4a603a6c447-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Minnesota Timberwolves vs. Portland Trail Blazers
+https://gg.poocloud.in/nba_por/tracks-v1a1/mono.ts.m3u8
 
 
 
