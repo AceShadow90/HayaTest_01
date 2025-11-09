@@ -507,12 +507,10 @@ http://line.iptvwings.com:80/play/live.php?mac=a0:bb:3e:01:66:5a&stream=1116488&
 http://line.iptvwings.com:80/play/live.php?mac=a0:bb:3e:01:66:5a&stream=155729&extension=ts&play_token=TRymQwd5vB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="MOVIE CHANNELS",HBO(US)
 http://tvmate.icu:8080/live/7686199/9576982/46713.m3u8
-#EXTINF:-1,BR: HBO HD
-http://nocable.cc:8080/live/5AGbfz/324331/164950.m3u8
 
 #EXTINF:-1 group-title="MOVIE CHANNELS",HBO COMEDY
 http://tvmate.icu:8080/live/7686199/9576982/17773.m3u8
-#EXTINF:-1,US HBO SIGNATURE (East) 
+#EXTINF:-1 group-title="MOVIE CHANNELS",US HBO SIGNATURE (East) 
 http://nocable.cc:8080/live/5AGbfz/324331/9266.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sSjs0lp.jpg" group-title="MOVIE CHANNELS",HBO FAMILY
