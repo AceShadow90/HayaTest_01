@@ -7,8 +7,6 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
-
-
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1c940b741f356f4f38fd7c5e3b92ae4b-thumbnail.jpg" group-title="NBA - Live Games Today",Toronto Raptors vs. Brooklyn Nets(08:30 AM PHT)
 https://gg.poocloud.in/nba_brooklynnets/index.m3u8
@@ -27,6 +25,115 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b18d58f0c9d578f468c3d6bbc7ca3f7-thumbnail.jpg" group-title="NBA - Live Games Today",Denver Nuggets vs. Sacramento Kings(12:00 PM PHT)
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+
+
+
+
+
+
+
+#EXTM3U
+
+
+
+x-tvg-url=""
+
+#EXTINF:1 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/aniplus" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Aniplus
+http://vod.nathcreqtives.com/stream/convergenceinc/aniplus/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:2 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/cinemaone" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" provider-type="PH CHANNELS (UNDER TEST)", Cinema One
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemaone/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:3 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/hbo" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cinemax-ph.png" provider-type="PH CHANNELS (UNDER TEST)", Cinemax
+http://vod.nathcreqtives.com/stream/convergenceinc/hbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:4 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/cinemo" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cine-mo-ph.png" provider-type="PH CHANNELS (UNDER TEST)", Cinemo!
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:5 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/gmalifetv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", GMA Life TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:6 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/gmanetwork" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", GMA Manila
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:7 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/gmanewstv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", GMA News TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanewstv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:8 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/gtv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", GTV
+http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:9 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/heartofasia" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Heart Of Asia
+http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:10 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/ihm" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", I Heart Movies
+http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:11 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/jeepneytv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Jeepney TV
+http://vod.nathcreqtives.com/stream/convergenceinc/jeepneytv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:12 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/kapamilya" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Kapamilya HD
+http://vod.nathcreqtives.com/stream/convergenceinc/kapamilya/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:13 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/nbatv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", NBA TV
+http://vod.nathcreqtives.com/stream/convergenceinc/nbatv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:14 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/tv5hd" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", TV 5 HD
+http://vod.nathcreqtives.com/stream/convergenceinc/tv5hd/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:15 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/vivacinema" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Viva Cinema
+http://vod.nathcreqtives.com/stream/convergenceinc/vivacinema/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:16 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/pbo" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", PBO
+http://vod.nathcreqtives.com/stream/convergenceinc/pbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:17 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/myxph" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", MYX Philippines
+http://vod.nathcreqtives.com/stream/convergenceinc/myxph/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:18 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/alltv2" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", ALLTV2
+http://vod.nathcreqtives.com/stream/convergenceinc/alltv2/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:19 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/smni" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", SMNI
+http://vod.nathcreqtives.com/stream/convergenceinc/smni/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:20 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/gnn" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", GNN
+http://vod.nathcreqtives.com/stream/convergenceinc/gnn/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:21 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/net25" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", NET25
+http://vod.nathcreqtives.com/stream/convergenceinc/net25/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:22 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/dzrhnews" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", DZRH News
+http://vod.nathcreqtives.com/stream/convergenceinc/dzrhnews/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:23 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/untv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", UNTV
+http://vod.nathcreqtives.com/stream/convergenceinc/untv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:24 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/metrochannel" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Metro Channel
+http://vod.nathcreqtives.com/stream/convergenceinc/metrochannel/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:25 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/lighttv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Tap Edge
+http://vod.nathcreqtives.com/stream/convergenceinc/lighttv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:26 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/nhk" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", NHK World
+http://vod.nathcreqtives.com/stream/convergenceinc/nhk/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:27 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/mtv" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", MTV
+http://vod.nathcreqtives.com/stream/convergenceinc/mtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:28 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/mnet" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Mnet
+http://vod.nathcreqtives.com/stream/convergenceinc/mnet/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:29 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/a2z" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", A2Z
+http://vod.nathcreqtives.com/stream/convergenceinc/a2z/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:30 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/kapatid5" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Kapatid 5
+http://vod.nathcreqtives.com/stream/convergenceinc/kapatid5/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:31 group-title="PH CHANNELS (UNDER TEST)" tvg-id="convergenceinc/light" tvg-logo="" provider="PH CHANNELS (UNDER TEST)" provider-logo="" provider-type="PH CHANNELS (UNDER TEST)", Light TV
+http://vod.nathcreqtives.com/stream/convergenceinc/light/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+
+
+
 
 
 
