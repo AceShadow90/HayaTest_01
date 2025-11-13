@@ -2744,6 +2744,20 @@ https://drive.usercontent.google.com/download?id=1Fgou5MxvNCwAZG16kZ9GhB6H8nAyPZ
 
 
 
+#EXTINF:-1 group-title="Bawal Sa Bata" tvg-logo="",STREAM 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+
+#EXTINF:-1 group-title="Bawal Sa Bata" tvg-logo="",STREAM-1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+
+
 
 
 
