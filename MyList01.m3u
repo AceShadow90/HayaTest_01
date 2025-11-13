@@ -124,6 +124,25 @@ http://vod.nathcreqtives.com/stream/convergenceinc/light/master.m3u8?u=phc&p=fd6
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZRH
+https://utube.cocker-tk.workers.dev/Y4Q6DwEwQ5Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Kapamilya
+https://utube.cocker-tk.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZMM Teleradyo
+https://utube.cocker-tk.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",UNTV
+https://utube.cocker-tk.workers.dev/UC3XaG-7UVi2vD8ZZEMNnnpw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Prime Tv
+https://utube.cocker-tk.workers.dev/YJQyci_7jJE/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Inquirer Tv
+https://utube.cocker-tk.workers.dev/BavpMXzVrJY/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",gma integrated news
+https://utube.cocker-tk.workers.dev/CpfCVx2pCgM/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",cartoon network
+https://utube.cocker-tk.workers.dev/81moUY88YDY/master.m3u8
+
+
+
 
 
 
@@ -2649,9 +2668,6 @@ https://drive.usercontent.google.com/download?id=1eHaakp5qFCAPObONrm8gUvTcxUHMmv
 
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="BAWAL SA BATA",Bata2x
-https://drive.usercontent.google.com/download?id=1WzS7WKhwSnFfm8gUTbHTQjK2yk0ceu23&export=download&confirm=t
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="BAWAL SA BATA",BLACKED BBC-Hungry Cutie Raina Gets Dicked down Poolside(720P)
 https://drive.usercontent.google.com/download?id=1vMo-Ij1561PmQ09RKGn3beqimcwx5vua&export=download&confirm=t
 
@@ -2744,18 +2760,6 @@ https://drive.usercontent.google.com/download?id=1Fgou5MxvNCwAZG16kZ9GhB6H8nAyPZ
 
 
 
-#EXTINF:-1 group-title="Bawal Sa Bata" tvg-logo="",STREAM 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
-
-
-#EXTINF:-1 group-title="Bawal Sa Bata" tvg-logo="",STREAM-1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
 
 
