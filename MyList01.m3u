@@ -177,15 +177,14 @@ http://vod.nathcreqtives.com/stream/convergenceinc/light/master.m3u8?u=phc&p=fd6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZRH TV 4K Livestream
 https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZRH TV 4K Livestream
-https://aged-wave-1f93.worker.dev/UCcTiBX8js_djhSSlmJRI99A/stream.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Kapamilya Online Live
 https://utube.cocker-tk.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",GMA Kapuso Stream
 https://utube.cocker-tk.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",GMA Kapuso Stream
+https://wild-bonus-f62c.carljerome90.workers.dev/UCKL5hAuzgFQsyrsQKgU0Qng/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",LIVE: DZMM Radyo Patrol 630, DZMM Teleradyo
 https://utube.cocker-tk.workers.dev/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
