@@ -177,6 +177,9 @@ http://vod.nathcreqtives.com/stream/convergenceinc/light/master.m3u8?u=phc&p=fd6
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZRH TV 4K Livestream
 https://utube.cocker-tk.workers.dev/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",DZRH TV 4K Livestream
+https://carljerome90.wild-bonus-f62c.workers.dev/UCcTiBX8js_djhSSlmJRI99A/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Kapamilya Online Live
 https://utube.cocker-tk.workers.dev/UCstEtN0pgOmCf02EdXsGChw/master.m3u8
 
@@ -194,6 +197,9 @@ https://utube.cocker-tk.workers.dev/UC3XaG-7UVi2vD8ZZEMNnnpw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Dobol B TV
 https://utube.cocker-tk.workers.dev/UCYFgnkDYr-G5L_iy6DZdvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",Dobol B TV
+https://carljerome90.wild-bonus-f62c.workers.dev/UCYFgnkDYr-G5L_iy6DZdvSA/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="UTUBE HAYABUSATV CHANNELS",RADYO RONDA BALITA with Jun Clerigo @ DXKS Surigao
 https://utube.cocker-tk.workers.dev/UCTEqreysOA6y1AbU4jmxl0A/master.m3u8
