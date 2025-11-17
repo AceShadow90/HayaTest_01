@@ -74,6 +74,17 @@ https://gg.poocloud.in/wc_ned/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://iptvboss.xyz/logos/Germany/DaznFast.de.png" group-title="DAZN" , DAZN FAST+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="DAZN" , DAZN FAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+
 
 
 
