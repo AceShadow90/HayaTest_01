@@ -3402,7 +3402,7 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC
-http://nocable.cc:8080//5AGbfz/324331/9815
+http://nocable.cc:8080/live/5AGbfz/324331/9815.m3u8
 
 #EXTINF:-1 tvg-id="US: CNBC" tvg-name="USA CNBC" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="NEWS CHANNELS",USA CNBC
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21762.ts
@@ -3782,22 +3782,16 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="KIDS CHANNELS",Cartoonito
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/12203.m3u8
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="KIDS CHANNELS", Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/12269.m3u8
 
 #EXTINF:-1 group-title="KIDS CHANNELS",NICKELODEON
 http://212.102.60.231/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="KIDS CHANNELS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21792.m3u8
 
 #EXTINF:-1 tvg-id="LittleStarsUniverse.us" tvg-name="Little Stars Universe" tvg-logo="" group-title="KIDS CHANNELS",Little Stars Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
@@ -3969,25 +3963,14 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 group-title="INTERTAINMENT CHANNELS",ASIAN BOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX-avc1_3000000=9-mp4a_256000_eng=6.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="fashiontvph1" tvg-name="FASHION TV (CON)" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="INTERTAINMENT CHANNELS",FASHION TV
-http://161.49.17.2:6610/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/83915.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="nhkworldjap" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="INTERTAINMENT CHANNELS",NHK WORLD
-http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/74351.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bspjapan" tvg-name="BS PREMIUM" tvg-logo="https://png.pngtree.com/png-vector/20230829/ourmid/pngtree-gold-color-bs-letter-logo-on-dark-gray-geometric-shape-concept-vector-png-image_9954543.png" group-title="INTERTAINMENT CHANNELS",BS PREMIUM
-http://161.49.17.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="tlccon" tvg-name="TLC HD" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="INTERTAINMENT CHANNELS",TLC HD
-http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86032.m3u8
 
 #EXTINF:-1 group-title="INTERTAINMENT CHANNELS",TAIWAN+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
@@ -4524,46 +4507,20 @@ https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
 https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="globtrekkerr" tvg-name="GLOBAL TREKKER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" group-title="DOCUMENTARY CHANNELS",GLOBAL TREKKER
-http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-20 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="DOCUMENTARY CHANNELS",Living Asia Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="historyph1" tvg-name="HISTORY CHANNEL (CON)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/history-channel-lam.png" group-title="DOCUMENTARY CHANNELS",HISTORY CHANNEL
-http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21940.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="discoveryasia" tvg-name="DISCOVERY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="DOCUMENTARY CHANNELS",DISCOVERY ASIA
-http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85994.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="discoveryph1" tvg-name="DISCOVERY CHANNEL (CON)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="DOCUMENTARY CHANNELS",DISCOVERY CHANNEL
-http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/22074.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="hgtvph1" tvg-name="HGTV (CON)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="DOCUMENTARY CHANNELS",HGTV
-http://161.49.17.2:6610/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://supersonictv.live:8080/live/Calvin123/Calvin123/22101.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="nhkbs1" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHKBS23Horizontal.svg/1200px-NHKBS23Horizontal.svg.png" group-title="DOCUMENTARY CHANNELS",NHK BS
-http://161.49.17.2:6610/001/2/ch00000090990000001214/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="crimeinvph1" tvg-name="CRIME INVESTIGATION (CON)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="DOCUMENTARY CHANNELS",CRIME INVESTIGATION
-http://161.49.17.2:6610/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21883.m3u8
 
 #EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="DOCUMENTARY CHANNELS",WEATHER SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
