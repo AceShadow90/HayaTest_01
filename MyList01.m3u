@@ -3782,13 +3782,13 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="KIDS CHANNELS",Cartoonito
-http://supersonictv.live:8080/live/Calvin123/Calvin123/12203.m3u8
+http://supersonictv.live:8080/live/Calvin123/Calvin123/83496.ts
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="KIDS CHANNELS", Nick Jr
 http://supersonictv.live:8080/live/Calvin123/Calvin123/12269.m3u8
 
 #EXTINF:-1 group-title="KIDS CHANNELS",NICKELODEON
-http://212.102.60.231/NICKELODEON/index.m3u8
+http://supersonictv.live:8080/live/Calvin123/Calvin123/12271.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="KIDS CHANNELS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21792.m3u8
@@ -18461,6 +18461,192 @@ https://drive.usercontent.google.com/download?id=1iBzrLStojJMVt7d34Jmow73bcxVukB
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="PH ABS CBN" tvg-logo="" group-title="PHILIPPINES",PH ABS CBN
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH ABS_CBN_News_Channel" tvg-logo="" group-title="PHILIPPINES",PH ABS_CBN_News_Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH ABS_CBN_Sports_Action" tvg-logo="" group-title="PHILIPPINES",PH ABS_CBN_Sports_Action
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo" tvg-logo="" group-title="PHILIPPINES",PH Cinemo
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA_Life" tvg-logo="" group-title="PHILIPPINES",PH GMA_Life
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA_News_TV" tvg-logo="" group-title="PHILIPPINES",PH GMA_News_TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA_Pinoy_TV" tvg-logo="" group-title="PHILIPPINES",PH GMA_Pinoy_TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Hope Channel" tvg-logo="" group-title="PHILIPPINES",PH Hope Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH INC TV" tvg-logo="" group-title="PHILIPPINES",PH INC TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC" tvg-logo="" group-title="PHILIPPINES",PH TFC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH UNTV" tvg-logo="" group-title="PHILIPPINES",PH UNTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Life TV" tvg-logo="" group-title="PHILIPPINES",PH GMA Life TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV" tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC HD" tvg-logo="" group-title="PHILIPPINES",PH TFC HD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC SD" tvg-logo="" group-title="PHILIPPINES",PH TFC SD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN" tvg-logo="" group-title="PHILIPPINES",PH CNN
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH DZRH News" tvg-logo="" group-title="PHILIPPINES",PH DZRH News
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH MYX" tvg-logo="" group-title="PHILIPPINES",PH MYX
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo Nola" tvg-logo="" group-title="PHILIPPINES",PH Cinemo Nola
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Australia" tvg-logo="" group-title="PHILIPPINES",PH TFC Australia
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Middle East" tvg-logo="" group-title="PHILIPPINES",PH TFC Middle East
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe" tvg-logo="" group-title="PHILIPPINES",PH TFC Europe
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Canada" tvg-logo="" group-title="PHILIPPINES",PH TFC Canada
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinema One" tvg-logo="" group-title="PHILIPPINES",PH Cinema One
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ph ONE Sport" tvg-logo="" group-title="PHILIPPINES",Ph ONE Sport
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Arabic TFC" tvg-logo="" group-title="PHILIPPINES",PH Arabic TFC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH SMNI" tvg-logo="" group-title="PHILIPPINES",PH SMNI
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH PTV News" tvg-logo="" group-title="PHILIPPINES",PH PTV News
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5" tvg-logo="" group-title="PHILIPPINES",PH TV5
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TV Maria" tvg-logo="" group-title="PHILIPPINES",PH TV Maria
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia" tvg-logo="" group-title="PHILIPPINES",PH ABC Austrailia
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH AFN" tvg-logo="" group-title="PHILIPPINES",PH AFN
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX" tvg-logo="" group-title="PHILIPPINES",PH ANIMAX
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH AXN" tvg-logo="" group-title="PHILIPPINES",PH AXN
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Entertainment" tvg-logo="" group-title="PHILIPPINES",PH Blue Ant Entertainment
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cartoon NW" tvg-logo="" group-title="PHILIPPINES",PH Cartoon NW
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOV PINOY" tvg-logo="" group-title="PHILIPPINES",PH CELESTIAL MOV PINOY
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CGTV DOC" tvg-logo="" group-title="PHILIPPINES",PH CGTV DOC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemax" tvg-logo="" group-title="PHILIPPINES",PH Cinemax
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo" tvg-logo="" group-title="PHILIPPINES",PH Cinemo
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CLTV 36" tvg-logo="" group-title="PHILIPPINES",PH CLTV 36
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CNA" tvg-logo="" group-title="PHILIPPINES",PH CNA
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines" tvg-logo="" group-title="PHILIPPINES",PH CNN Philipines
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Crime Investiragtien" tvg-logo="" group-title="PHILIPPINES",PH Crime Investiragtien
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery" tvg-logo="" group-title="PHILIPPINES",PH Discovery
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia" tvg-logo="" group-title="PHILIPPINES",PH Discovery Asia
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH DZRH NEWS TV" tvg-logo="" group-title="PHILIPPINES",PH DZRH NEWS TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH ETC" tvg-logo="" group-title="PHILIPPINES",PH ETC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Fight" tvg-logo="" group-title="PHILIPPINES",PH Fight
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GCTV" tvg-logo="" group-title="PHILIPPINES",PH GCTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA7" tvg-logo="" group-title="PHILIPPINES",PH GMA7
+http://supersonictv.live:8080/live/Calvin123/Calvin123/85999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH HBO Family" tvg-logo="" group-title="PHILIPPINES",PH HBO Family
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH HBO HITS" tvg-logo="" group-title="PHILIPPINES",PH HBO HITS
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Hilsong Channel" tvg-logo="" group-title="PHILIPPINES",PH Hilsong Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies" tvg-logo="" group-title="PHILIPPINES",PH HITS Movies
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH HORSE RACING" tvg-logo="" group-title="PHILIPPINES",PH HORSE RACING
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13" tvg-logo="" group-title="PHILIPPINES",PH IBC13
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13" tvg-logo="" group-title="PHILIPPINES",PH IBC13
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH INCTV" tvg-logo="" group-title="PHILIPPINES",PH INCTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH JTV DR" tvg-logo="" group-title="PHILIPPINES",PH JTV DR
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH KBS World" tvg-logo="" group-title="PHILIPPINES",PH KBS World
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Lifetime" tvg-logo="" group-title="PHILIPPINES",PH Lifetime
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH MOR" tvg-logo="" group-title="PHILIPPINES",PH MOR
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH NET25" tvg-logo="" group-title="PHILIPPINES",PH NET25
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick" tvg-logo="" group-title="PHILIPPINES",PH Nick
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH One PH" tvg-logo="" group-title="PHILIPPINES",PH One PH
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH One Screen" tvg-logo="" group-title="PHILIPPINES",PH One Screen
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel" tvg-logo="" group-title="PHILIPPINES",PH Outdoor Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH PBO" tvg-logo="" group-title="PHILIPPINES",PH PBO
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH PINOY XTREME" tvg-logo="" group-title="PHILIPPINES",PH PINOY XTREME
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH PPV" tvg-logo="" group-title="PHILIPPINES",PH PPV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH PTV4" tvg-logo="" group-title="PHILIPPINES",PH PTV4
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH QTV" tvg-logo="" group-title="PHILIPPINES",PH QTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI" tvg-logo="" group-title="PHILIPPINES",PH SARI SARI
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH SHOPTV" tvg-logo="" group-title="PHILIPPINES",PH SHOPTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH SMNI" tvg-logo="" group-title="PHILIPPINES",PH SMNI
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela" tvg-logo="" group-title="PHILIPPINES",PH TeleNovela
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA" tvg-logo="" group-title="PHILIPPINES",PH TFC USA
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH thill" tvg-logo="" group-title="PHILIPPINES",PH thill
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TLC" tvg-logo="" group-title="PHILIPPINES",PH TLC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel" tvg-logo="" group-title="PHILIPPINES",PH Travel Channel
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5" tvg-logo="" group-title="PHILIPPINES",PH TV5
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH Tv5 Monde ASIE" tvg-logo="" group-title="PHILIPPINES",PH Tv5 Monde ASIE
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5-2" tvg-logo="" group-title="PHILIPPINES",PH TV5-2
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TVN" tvg-logo="" group-title="PHILIPPINES",PH TVN
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH TVSHOP" tvg-logo="" group-title="PHILIPPINES",PH TVSHOP
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH UNTV" tvg-logo="" group-title="PHILIPPINES",PH UNTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH VIVA CINEMA" tvg-logo="" group-title="PHILIPPINES",PH VIVA CINEMA
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH UNTV" tvg-logo="" group-title="PHILIPPINES",PH UNTV
+http://supersonictv.live:8080/live/Calvin123/Calvin123/86041.m3u8
 
 
 
