@@ -2366,15 +2366,18 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SPORTS CHANNELS",CHANNELS NOTICE!!!
 https://drive.usercontent.google.com/download?id=1L6Vi6nbc97YQbd_WCfqb1jOzlh4wMFT6&export=download&authuser=N
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",TENNIS 2
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/681109b688b9d85d0938c6ba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="SPORTS CHANNELS",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-id="TennisChannel.us@SD",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="SPORTS CHANNELS",Fubo Sports Network (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNELS" ,Fast Sports HD (SHOQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
+https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="SPORTS CHANNELS",Fubo Sports Network (1080p)
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Poland" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="SPORTS CHANNELS",FIFA plus
@@ -2390,10 +2393,9 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNELS" ,Fast Sports HD (SHOQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
-https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
+#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="SPORTS CHANNELS",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/...Horizontal_Fullcolor_Variation_White-Pink.png" group-title="SPORTS CHANNELS",AWSN
 https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist.m3u8
@@ -2441,9 +2443,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="SPORTS CHANNELS",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="SPORTS CHANNELS",TSN1
 http://nocable.cc:8080/live/5AGbfz/324331/57292.m3u8
