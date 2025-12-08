@@ -34,6 +34,25 @@ https://gg.poocloud.in/utahjazz/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs New York Knicks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Orlando Magic vs New York Knicks
+https://cdn14.dbfile.cfd/live/cdn14/playlist.m3u8?expires=1765155915&token=90cba89b6fb3e5c12e8a1ddd79103655e10c4eae1e82d84fdfeee2ac57ce8791
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston Celtics vs Toronto Raptors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Boston Celtics vs Toronto Raptors
+https://cdn15.dbfile.cfd/live/cdn15/playlist.m3u8?expires=1765155922&token=d8e3a96407336b96059ceddadca6d49a7d52d9e9e77794f69d40dca18b856399
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Denver Nuggets vs Charlotte Hornets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Denver Nuggets vs Charlotte Hornets
+https://cdn3.dbfile.cfd/live/cdn3/playlist.m3u8?expires=1765155855&token=a47ef1d20f7b7038b0b710e162aa1a24858520e6d8051d730d89f3e5795ee3f8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Memphis Grizzlies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Portland Trail Blazers vs Memphis Grizzlies
+https://cdn4.dbfile.cfd/live/cdn4/playlist.m3u8?expires=1765155857&token=a2fc36920db7b87c6d6344a7c77a28d45152b2ccdfe7d5223094cb082be00273
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Chicago Bulls" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Golden State Warriors vs Chicago Bulls
+https://cdn5.dbfile.cfd/live/cdn5/playlist.m3u8?expires=1765155851&token=a34c08550a376eeae906e5fc7c1cb72c994f24a788871dad2fa9eb7c7ef941c6
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Philadelphia 76ers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Los Angeles Lakers vs Philadelphia 76ers
+https://cdn6.dbfile.cfd/live/cdn6/playlist.m3u8?expires=1765155850&token=6393d08f17a553f0dac007f1b7b94ac2574d5ea735a7f3bfe3b17fd755b5d148
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Utah Jazz" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live(Dec 8,Mon)",Oklahoma City Thunder vs Utah Jazz
+https://cdn7.dbfile.cfd/live/cdn7/playlist.m3u8?expires=1765155886&token=b51b056662451008aab9d895f11fdc857fdd24bcaeb3756774eb3690e0ea99d2
+
+
+
+
 
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4febfbc95bcf7683805fa6e94f7a27d3-thumbnail.jpg" group-title="🏈 American Football Live Stream(Dec 8,Mon)",@2AM Seattle Seahawks vs. Atlanta Falcons [FOX]
 https://gg.poocloud.in/atlantafalcons/index.m3u8
