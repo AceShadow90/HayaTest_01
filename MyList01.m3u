@@ -16,6 +16,12 @@ https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Chicago Bulls (Dec 17 - 08:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For DEVANT)",@9:00AM Cleveland Cavaliers vs Chicago Bulls
+https://cdn1.polkadot.cfd/live/cdn1/playlist.m3u8?expires=1766005055&token=84bf3737f7abaca5ae5018360ee9c4962fe780d54ca125ba17624bf94ed41425
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Grizzlies vs Minnesota Timberwolves (Dec 17 - 08:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For DEVANT)",@9:00AM Memphis Grizzlies vs Minnesota Timberwolves
+https://cdn2.polkadot.cfd/live/cdn2/playlist.m3u8?expires=1766010433&token=695dd6d95a6b3b7e171460745bfd3225a61930d3cca57a57eaa790fef174a62f
+
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live (Dec 19,Fri)",@8:00AM Atlanta Hawks vs. Charlotte Hornets
