@@ -46,6 +46,15 @@ https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Atlanta Hawks vs Charlotte Hornets (Dec 18 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Atlanta Hawks vs Charlotte Hornets
+https://cdn2.polkadot.cfd/live/cdn2/playlist.m3u8?expires=1766099941&token=abc9cbbaf250fd596abfea16cb9f1ab453eedf7ed7c2038b623dc0126f831bd4
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New York Knicks vs Indiana Pacers (Dec 18 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",New York Knicks vs Indiana Pacers
+https://cdn2.polkadot.cfd/live/cdn2/playlist.m3u8?expires=1766100444&token=d1b46361d408bc5241db7de1d65cd3121bd46201207862e948b75e2048acb4f2
+
+
+
 
 #EXTINF:-1 tvg-id="🎯 Darts Live Event.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="🎯 Darts Live Event",World 🎯 Darts Live Event Championship [PDC Darts]
 https://gg.poocloud.in/darts/index.m3u8
