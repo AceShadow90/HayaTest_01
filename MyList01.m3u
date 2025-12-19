@@ -26,11 +26,85 @@ https://gg.poocloud.in/minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="🎯 Darts Live Event.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="🎯 Darts Live Event",World 🎯 Darts Live Event Championship [PDC Darts]
 https://gg.poocloud.in/darts/index.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d1f77dfedc380287f45d295feb0887ae-thumbnail.jpg" group-title="🏈 American Football Live (Dec 20,Sat)",@9:00AM #9 Alabama vs. #8 Oklahoma (First Round) [ABC]
+https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/55dd26f95ebc5860ec9d446e4941e93e-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@3:30AM Borussia Dortmund vs. Borussia Mönchengladbach [Bundesliga]
+https://gg.poocloud.in/bl_dor/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7c30255a57262862b6f9b32ee7054f78-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@4:00AM Valencia vs. Mallorca [LaLiga]
+https://gg.poocloud.in/ll_val/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/085a8bc8b6aec38062015ac75f39f57e-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@8:30PM Newcastle United vs. Chelsea [Premier League]
+https://gg.poocloud.in/pl_new/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa7226b2abeafd1d1a8533584cdd85bd-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@9:00PM Real Oviedo vs. Celta Vigo [LaLiga]
+https://gg.poocloud.in/ll_ovi/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/12370da7ff9fcd98650d372f5d4d84f9-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@10:30PM FC Augsburg vs. Werder Bremen [Bundesliga]
+https://gg.poocloud.in/bl_fca/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/38abc709d8559e4d9c9f1b84cfba1bd1-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@10:30PM FC Cologne vs. 1. FC Union Berlin [Bundesliga]
+https://gg.poocloud.in/bl_koe/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/057478f3939dc34f30324539959ebba1-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@10:30PM Hamburg SV vs. Eintracht Frankfurt [Bundesliga]
+https://gg.poocloud.in/bl_hsv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b2cdf5a9bc705d42cc0cf4edd3c1c751-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@10:30PM VfB Stuttgart vs. TSG Hoffenheim [Bundesliga]
+https://gg.poocloud.in/bl_vfb/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9b4e438cc630c4a095b0661472e744e7-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@10:30PM VfL Wolfsburg vs. SC Freiburg [Bundesliga]
+https://gg.poocloud.in/bl_wob/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:00PM Goal Rush [Peacock]
+https://gg.poocloud.in/pl_goalrush/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a5eafff2a1ff9627bec7c7102ecadf1f-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:00PM AFC Bournemouth vs. Burnley [Premier League]
+https://gg.poocloud.in/pl_bou/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/015abd68292fc4e3035afb1d86e3afed-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:00PM Brighton & Hove Albion vs. Sunderland [Premier League]
+https://gg.poocloud.in/pl_bha/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/251560d22153fa246dff41014086c819-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:00PM Manchester City vs. West Ham United [Premier League]
+https://gg.poocloud.in/pl_mnc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/62f7eb500bc9a55c69fc57b1074a442a-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:00PM Wolverhampton Wanderers vs. Brentford [Premier League]
+https://gg.poocloud.in/pl_wol/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2209dee112139a1f44982f2c439b136d-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 20,Sat)",@11:15PM Levante vs. Real Sociedad [LaLiga]
+https://gg.poocloud.in/ll_lev/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/72eb8a5a34800cb9bcaf8388f773d88b-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 20,Sat)",@8:00AM Carolina Hurricanes vs. Florida Panthers [Scripps Sports]
+https://gg.poocloud.in/floridapanthers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fb1baac888571a9872166aa85f7fe4da-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 20,Sat)",@8:00AM Vancouver Canucks vs. New York Islanders [MSGSN]
+https://gg.poocloud.in/newyorkislanders/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/978a7b98f2eb709cbb74b08cb0793070-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 20,Sat)",@10:00AM Winnipeg Jets vs. Colorado Avalanche [Altitude Sports]
+https://gg.poocloud.in/coloradoavalanche/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6d11e75cb5ae2cf8c1faac2540c00256-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 20,Sat)",@10:00AM New Jersey Devils vs. Utah Mammoth [Utah 16]
+https://gg.poocloud.in/utahmammoth/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ca770c1ae0d8394de0da9335dbbf3c4a-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 20,Sat)",@11:00AM Dallas Stars vs. Anaheim Ducks [KCOP]
+https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -41,6 +115,7 @@ https://gg.poocloud.in/netflix/index.m3u8
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" group-title="🥋🤼Combat SportsLive Event(Dec 21,SUN)",@3:00AM Misfits Mania: Andrew Tate vs. Chase DeMoor [RUMBLE]
 https://direct.poocloud.in/misfits.m3u8
+
 
 
 
