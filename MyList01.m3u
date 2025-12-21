@@ -47,26 +47,23 @@ https://gg.poocloud.in/sacramentokings/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Denver Nuggets (Dec 20 - 05:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@6:00AM Houston Rockets vs Denver Nuggets
-https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@4:30AM Chicago Bulls vs. Atlanta Hawks
+https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766335113&token=49ca8a2bbb95540d432519fe8d0f80d8988e7da530427c360624569a29dca40d
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Philadelphia 76ers (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Dallas Mavericks vs Philadelphia 76ers
-https://cdn8.lilicdn.cfd/live/cdn8/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Toronto Raptors vs. Brooklyn Nets
+https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766335257&token=b5ec587b783dbba102efa960d455f881e7c48210ed47411d75b17ed2ad7250c3
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs New Orleans Pelicans (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Indiana Pacers vs New Orleans Pelicans
-https://cdn10.lilicdn.cfd/live/cdn10/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Miami Heat vs. New York Knicks
+https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335325&token=633516456fde80feb6d4f20a6bc59b8b55e7fc6ae32fdae91fbbd32fedbc6dec
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Golden State Warriors (Dec 20 - 08:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@9:30AM Phoenix Suns vs Golden State Warriors
-https://cdn13.lilicdn.cfd/live/cdn13/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM San Antonio Spurs vs. Washington Wizards
+https://cdn5.lilicdn.cfd/live/cdn5/playlist.m3u8?expires=1766335419&token=a507d547d35b9ebf01e544ddb6670d8ffc74f339ec838b84d0dc2e208acca27a
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Utah Jazz (Dec 20 - 09:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@10:30AM Orlando Magic vs Utah Jazz
-https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Milwaukee Bucks vs. Minnesota Timberwolves
+https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335467&token=fe933f22f8df3d5727c3abae7f8f6ca25a0396df520e67859b1a0c86055c9a4d
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Los Angeles Clippers (Dec 20 - 10:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:30AM Los Angeles Lakers vs Los Angeles Clippers
-https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Los Angeles Clippers (Dec 20 - 10:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:30AM Los Angeles Lakers vs Los Angeles Clippers
-https://cdn3.lilicdn.cfd/live/cdn3/chunks.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:00AM Houston Rockets vs. Sacramento Kings
+https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766335536&token=8be468127ded9131c9192b0591133549d91e1b4df59aa9c1998b7ebd30ee2b80
 
 
 
