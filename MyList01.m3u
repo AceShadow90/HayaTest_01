@@ -38,7 +38,7 @@ https://cdn6.hkfile.cfd/live/cdn6/playlist.m3u8?expires=1768952060&token=a46771b
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b47c43cbb89fc08a9cd4c1d4d80cb784-thumbnail.jpg" group-title="NBA Live (Source 2)",8AM Suns vs. 76ers
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=XaDOVvnL6kDQcERMpscKlQVj6IoJluISESYVJUaq54E&e=1768962402
+https://strm.poocloud.in/secure/DFVBOboMiQidIZQxeYFRAIvNLpJEQdhc/1768946400/1768970880/philadelphia76ers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c47ce708c93d53115f40632a4f74f392-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Clippers vs. Bulls
 https://strm.poocloud.in/secure/fwPSVCgCbHQCbXUIxSuWKBijykvFKUJF/1768950000/1768974480/chicagobulls/index.m3u8
@@ -57,6 +57,7 @@ https://strm.poocloud.in/secure/wLgnZhiptQVBWIlTriZnsAcdmCehAPzG/1768957200/1768
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c431c67e083fbaad9ad27737bb8dfbc-thumbnail.jpg" group-title="NBA Live (Source 2)",11AM Heat vs. Kings
 https://strm.poocloud.in/secure/ngDrSngWdxLKnbVlrxqafcYcIUHquhKT/1768957200/1768981680/sacramentokings/index.m3u8
+
 
 
 
