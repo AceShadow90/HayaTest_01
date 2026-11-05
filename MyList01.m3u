@@ -1,13 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="AVAILABLE CHANNELS NOTICE",CHANNELS NOTICE
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="ACCESS DENIED",ACCESS DENIED
 https://drive.google.com/uc?export=download&id=1L6Vi6nbc97YQbd_WCfqb1jOzlh4wMFT6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="Banned Playlist",Banned Playlist
 https://drive.google.com/uc?export=download&id=16uwhmyqnGtSEFd2mYIEPaByItmIc5IUk
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="AVAILABLE CHANNELS NOTICE",CHANNELS NOTICE
+https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 
 
